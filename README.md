@@ -18,3 +18,15 @@ It was originally designed for badminton but it can be adapted for other sports 
 - A separate **demo workbook** is included as an example.
 - The data in the demo workbook is random and does not represent real players or results.
 - Enable macros to allow automatic calculations.
+
+## Screenshots
+Below are example screenshots that demonstrate how the workbook works.  
+
+### Example 1 – One Event
+![One Event](screenshots/wd_ex.png)
+
+### Example 2 – Overall Ranking
+![Overall Ranking](screenshots/ranking_ex.png)
+
+### Example 3 – Analysis
+![Analysis](screenshots/bad_analysis.png)
