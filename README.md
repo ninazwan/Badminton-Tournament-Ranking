@@ -29,4 +29,4 @@ Below are example screenshots that demonstrate how the workbook works.
 ![Overall Ranking](screenshots/ranking_ex.png)
 
 ### Example 3 – Analysis
-![Analysis](screenshots/bad_analysis.png)
+![Analysis](screenshots/bad_analysis_ex.png)
